@@ -1,3 +1,5 @@
+# Venite a trovarci su https://avt.forumfree.it/ 
+
 # AVT-Player (ITA)
 #In questo repo sarà messo il codice sorgente dell'AVT Player, ogni aiuto è ben accetto. Questo Video Player funziona sfruttando il PHP e MySQL, Ogni ID sarà assegnato a un determinato video.
 
